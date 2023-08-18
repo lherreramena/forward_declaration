@@ -1,0 +1,7 @@
+/home/lherrera/Code/mentoaventura/forward_declaration/build/CMakeFiles/edit_cache.dir
+/home/lherrera/Code/mentoaventura/forward_declaration/build/CMakeFiles/rebuild_cache.dir
+/home/lherrera/Code/mentoaventura/forward_declaration/build/sources/CMakeFiles/edit_cache.dir
+/home/lherrera/Code/mentoaventura/forward_declaration/build/sources/CMakeFiles/rebuild_cache.dir
+/home/lherrera/Code/mentoaventura/forward_declaration/build/sources/main/CMakeFiles/main.dir
+/home/lherrera/Code/mentoaventura/forward_declaration/build/sources/main/CMakeFiles/edit_cache.dir
+/home/lherrera/Code/mentoaventura/forward_declaration/build/sources/main/CMakeFiles/rebuild_cache.dir

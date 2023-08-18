@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/main.dir/A.cpp.o CMakeFiles/main.dir/B.cpp.o CMakeFiles/main.dir/main.cpp.o -o ../../bin/Debug/main  -lpthread 
