@@ -14,5 +14,11 @@ int main(int argc, char* argv[])
     }
     std::cout << "A: " << a.str() << std::endl;
     std::cout << "B: " << b.str() << std::endl;
+
+
+    auto shA1 = std::make_shared<A>();
+    std::shared_ptr<A> shA2;
+    auto pA = shA1.get();
+    shA2.reset(pA);
 }
 
